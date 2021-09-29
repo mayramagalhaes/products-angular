@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Biquini",
+      "price": "60"
+    },
+    {
+      "id": 2,
+      "name": "Shorts",
+      "price": "90"
+    },
+    {
+      "id": 3,
+      "name": "Top",
+      "price": "20"
+    },
+    {
+      "id": 4,
+      "name": "Calça jeans",
+      "price": "100.00"
+    },
+    {
+      "name": "T-shirt",
+      "price": "80",
+      "id": 5
+    }
+  ]
+}
